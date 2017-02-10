@@ -1,0 +1,12 @@
+*.o
+*.elf
+*.hex
+*.lst
+*.tmp
+*.asm
+*.obj
+*.i
+*.s
+*.mk
+*.lss
+*.map
